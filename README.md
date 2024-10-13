@@ -2,4 +2,4 @@
 
 ## I am open to Data Scientist, Data Analyst, Machine Learning Engineer and other AI, Data Science related potisions.
 
-### Please check my CV.
+### Please check my [CV](https://bobby-waitung-lo.github.io/CV/Bobby%20LO_CV.pdf).
