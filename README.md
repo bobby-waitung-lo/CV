@@ -10,4 +10,4 @@ Commercial Operations & Business Intelligence Data Analyst with an MSc in Health
 * 📊 **Core Focus:** Building end-to-end data pipelines, DAX data modeling, SQL querying, and executive Power BI dashboards.
 * 🎓 **Education:** MSc Health Informatics (Distinction, GPA 3.63/4.3) & BSc (Hons) Radiography.
 
-### Please check my [CV](https://bobby-waitung-lo.github.io/CV/BobbyLO_CV.pdf).
+### Please check my [CV](https://bobby-waitung-lo.github.io/CV/blob/91d3414a7276b59cfc56cbd20965b95f015393d4/BobbyLO_CV.pdf).
